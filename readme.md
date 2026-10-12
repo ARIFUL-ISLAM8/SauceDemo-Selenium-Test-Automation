@@ -1,4 +1,4 @@
-# SauceDemo Automation Suite
+# SauceDemo Selenium Test Automation
 
 A production-ready Selenium UI test automation framework for [Sauce Demo](https://www.saucedemo.com/), built with **Python** and **pytest** following the **Page Object Model** design pattern.
 
@@ -15,7 +15,7 @@ A production-ready Selenium UI test automation framework for [Sauce Demo](https:
 ## Project Structure
 
 ```
-SauceDemo-Automation-Suite/
+SauceDemo-Selenium-Test-Automation/
 ├── src/
 │   ├── main/
 │   │   └── python/
